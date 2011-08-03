@@ -6,4 +6,4 @@ function db($mysql){
 mysql_connect("localhost","bannik","*******");
 mysql_select_db("bannik");
 mysql_query( "SET NAMES UTF8" );
-?>           
+?>

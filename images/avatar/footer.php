@@ -1,0 +1,6 @@
+Magic Chest --> A application based on the idea of the cloud computing that gives you the oportunity to have all your files online and have access to them every second wherever you are. It is comeplitely secure for you nobody has the permision to go into your personal folder. Everyone has also the right to upload public files for wich everyone has the ability to see or download. An other abilyty Magic Chest gives is to share some of your personal files with other users of your choise
+Maths --> Is a personal project wich was used by most of oropos students. It generates quadratic equations and chalanges a student to calculate the answer and give it to the machine, the machine takes it and check the answer if it is true or false. you can use it either if you are a user of it or not. for users it keeps statistics and the level of the improvement. it helps him to understand the way to rich the solution of a quadratic equation.
+dunno --> Is a greek community where everybody can ask or answer any queston is given.
+Soncial --> is a community where a musician can promote his music to listeners so to build a name. listeners can rate the music and be closer to a musician they like.
+Wot --> a non-proft organisation from holand
+PAKOE --> a greek non-profit organisation
